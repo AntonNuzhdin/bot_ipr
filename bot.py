@@ -3,7 +3,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 from random import randrange
 
-TOKEN = '2022693630:AAH9X3xvTYYY85er7JC5NA41xSROusxAGIo'
+TOKEN = '#'
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
